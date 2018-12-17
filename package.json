@@ -1,0 +1,22 @@
+{
+  "name": "datascript",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "cookie-parser": "~1.4.3",
+    "csv-stringify": "^5.1.2",
+    "csvtojson": "^2.0.8",
+    "debug": "~2.6.9",
+    "dotenv": "^6.2.0",
+    "ejs": "~2.5.7",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "json-csv": "^2.0.2",
+    "mongoose": "^5.3.15",
+    "morgan": "~1.9.0"
+  }
+}
